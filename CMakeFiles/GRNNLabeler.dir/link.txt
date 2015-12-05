@@ -1,0 +1,1 @@
+/usr/bin/c++   -w -msse3 -funroll-loops -O3   CMakeFiles/GRNNLabeler.dir/GRNNLabeler.o  -o GRNNLabeler -rdynamic -lopenblas 
